@@ -1,0 +1,11 @@
+Part 6: Decission tree for handling missing values
+Mean and Mode
+
+*If data is from numerical column then we consider the average of entire column.
+*If data is from categorical column then we consider the value those frequecy is maximum in that column.
+
+Traverse through all branches
+
+*While predicting for a certain row and at a particular node we encounter missing value then will will traverse through every branch of that node and consider the result which will have more occurance.
+
+
