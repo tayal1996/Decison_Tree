@@ -1,8 +1,7 @@
 A Decision Tree classifier to predict which valuable employees will
 leave next. You are tasked with helping in reducing the number of senior employees
 leaving the company by predicting the next bunch. The fate of the company rests
-in your hands. Download dataset here(http://researchweb.iiit.ac.in/~murtuza.
-bohra/decision_Tree.zip).
+in your hands.
 For each employee you are provided the following attributes:
 1. Satisfaction Level
 2. Last evaluation
